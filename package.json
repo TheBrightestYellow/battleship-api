@@ -1,0 +1,23 @@
+{
+  "name": "battleship-api",
+  "version": "0.0.0",
+  "description": "An API that handles all the setup and actions of the classic battleship game",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrightestYellow/battleship-api.git"
+  },
+  "author": "dimitris tornazakis <dtornazakis@gmail.com>",
+  "license": "SEE LICENSE IN LISENSE",
+  "bugs": {
+    "url": "https://github.com/TheBrightestYellow/battleship-api/issues"
+  },
+  "homepage": "https://github.com/TheBrightestYellow/battleship-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
